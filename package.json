@@ -1,6 +1,6 @@
 {
   "name": "vue2-pdf",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "基于Vue2 + webpack + PDF.js版的PDF预览插件",
   "main": "index.js",
   "scripts": {},
@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/zuopengd/vue2-pdf.git"
   },
+  "homepage": "https://zuopengd.github.io/vue2-pdf",
   "keywords": [
     "vue.js",
     "vue2-pdf",
