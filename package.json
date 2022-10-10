@@ -1,6 +1,6 @@
 {
   "name": "vue2-pdf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "基于Vue2 + webpack + PDF.js版的PDF预览插件",
   "main": "index.js",
   "scripts": {},
